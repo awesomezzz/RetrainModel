@@ -1,4 +1,4 @@
-# About RetrainModel Process
+# About RetrainModel
 
 ## 簡述概念
 
