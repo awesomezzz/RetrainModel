@@ -8,4 +8,4 @@
 
 - 程式語言：Python
 - 套件：Keras
-- 平台：Linux Ubuntu
+- 平台：Linux Ubuntu、Jupyter Notebook
